@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-Live : todolist-app-react-js.netlify.app
+Live : [todolist-app-react-js.netlify.app](https://todolist-app-react-js.netlify.app/)
+
 Stay organized and boost your productivity with our To Do App built with React.js. This intuitive and user-friendly application helps you manage your tasks efficiently, ensuring you never miss a deadline or forget an important assignment.
 
 With our To Do App, you can easily create, track, and prioritize tasks in a streamlined manner. The app provides a clean and minimalistic interface, allowing you to focus on your tasks without distractions. Seamlessly add new tasks, set due dates, and assign priorities to stay on top of your responsibilities.
